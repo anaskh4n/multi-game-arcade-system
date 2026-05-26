@@ -51,5 +51,5 @@ multi-game-arcade-system/
 ## Author
 
 **Muhammad Anas Khan**  
-BSCS Student @ NUST, Karachi  
+BSCS Student @ NUST
 GitHub: [github.com/anaskh4n](https://github.com/anaskh4n)
