@@ -1,4 +1,4 @@
-# 🎮 Multi-Game Arcade System
+Multi-Game Arcade System
 
 A JavaFX-based desktop arcade application featuring multiple games, user authentication, and a leaderboard system — built as a Java OOP project.
 
@@ -6,21 +6,21 @@ A JavaFX-based desktop arcade application featuring multiple games, user authent
 
 ## Features
 
-- 🔐 Login & Registration System
-- 🕹️ 5 Playable Games:
+-  Login & Registration System
+-  5 Playable Games:
   - Tic Tac Toe
   - Memory Match
   - Snake
   - Maze
   - Mastermind
-- 🏆 Leaderboard (score tracking)
-- 👤 Player Profile Scene
-- 🛠️ Admin Panel (user management)
-- 🎨 Custom Arcade-style UI (JavaFX)
+-  Leaderboard (score tracking)
+-  Player Profile Scene
+-  Admin Panel (user management)
+-  Custom Arcade-style UI (JavaFX)
 
 ---
 
-## Technologies Used
+Technologies Used
 
 - Java (OOP)
 - JavaFX (GUI)
@@ -29,7 +29,7 @@ A JavaFX-based desktop arcade application featuring multiple games, user authent
 
 ---
 
-## Project Structure
+Project Structure
 
 ```
 multi-game-arcade-system/
@@ -40,7 +40,7 @@ multi-game-arcade-system/
 
 ---
 
-## How to Run
+How to Run
 
 1. Make sure **Java 17+** and **JavaFX SDK** are installed
 2. Compile all `.java` files in `src/`
@@ -48,7 +48,7 @@ multi-game-arcade-system/
 
 ---
 
-## Author
+Author
 
 **Muhammad Anas Khan**  
 BSCS Student @ NUST
